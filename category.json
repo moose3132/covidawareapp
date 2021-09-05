@@ -1,0 +1,20 @@
+[
+  {
+
+    "id": 1,
+    "category": "Vegetables",
+    "qty": "2143"
+  },
+  {
+ 
+    "id": 2,
+    "category": "Dairy",
+    "qty": "324"
+  },
+  {
+ 
+    "id": 3,
+    "category": "Meat",
+    "qty": "2234"
+  },
+]
